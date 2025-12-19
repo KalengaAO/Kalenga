@@ -11,7 +11,9 @@ farramentas funcionam por baixo de capô, também como foram construidas, e como
 e com certezas encontraras algumas que crie fruto as pesquisas e estudos.
 
 Um Tour sobre as minhas Skill: 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalengaAO&hide_progress=true)
 
-Status:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalengaAO&langs_count=8)
+
+Status
+
 ![Kalenga GitHub stats](https://github-readme-stats.vercel.app/api?username=KalengaAO&show_icons=true&theme=dark)
