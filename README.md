@@ -14,4 +14,5 @@ Um Tour sobre as minhas Skill:
 
 
 
-[![kalenga's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalengaAO)](https://github.com/anuraghazra/github-readme-stats)
+[![kalenga GitHub stats](https://github-readme-stats.vercel.app/api?username=KalengaAO)](https://github.com/anuraghazra/github-readme-stats)
+![Kalenga GitHub stats](https://github-readme-stats.vercel.app/api?username=KalengaAO&show_icons=true)
