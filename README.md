@@ -10,10 +10,8 @@ por lower level e Cybersecurity, a linguaguem C não só permite entender como m
 farramentas funcionam por baixo de capô, também como foram construidas, e como criar as minhas,
 e com certezas encontraras algumas que crie fruto as pesquisas e estudos.
 
-Um Tour sobre as minhas Skill: 
+Um Tour sobre as minhas Skill e Status: 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalengaAO&langs_count=8)
-
-Status
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalengaAO&exclude_repo=github-readme-stats,KalengaAO.github.io)
 
 ![Kalenga GitHub stats](https://github-readme-stats.vercel.app/api?username=KalengaAO&show_icons=true&theme=dark)
